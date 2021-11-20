@@ -1,2 +1,5 @@
-# YJoyStick
-Unity摇杆
+支持功能：
+
+1、Unity摇杆
+
+2、移动平滑帧预测
